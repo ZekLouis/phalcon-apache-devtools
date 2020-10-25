@@ -12,7 +12,8 @@ Build command
 
 ## Push
 
-Push command
+Push command(s)
 
-`docker push zeklouis/phalcon-devtools:1.2
- docker push zeklouis/phalcon-devtools:latest`
+`docker push zeklouis/phalcon-devtools:1.2`
+
+` docker push zeklouis/phalcon-devtools:latest`
