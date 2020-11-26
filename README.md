@@ -8,12 +8,12 @@ You can check the docker hub page [here](https://hub.docker.com/r/zeklouis/phalc
 
 Build command
 
-`docker build -t zeklouis/phalcon-devtools:1.2 -t zeklouis/phalcon-devtools:latest .`
+`docker build -t zeklouis/phalcon-devtools:1.3 -t zeklouis/phalcon-devtools:latest .`
 
 ## Push
 
 Push command(s)
 
-`docker push zeklouis/phalcon-devtools:1.2`
+`docker push zeklouis/phalcon-devtools:1.3`
 
-` docker push zeklouis/phalcon-devtools:latest`
+`docker push zeklouis/phalcon-devtools:latest`
